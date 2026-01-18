@@ -13,7 +13,7 @@ To get started with the project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/JomainaAhmed/AQI-Predictor-App
+git clone https://github.com/Divyaa1212/AQI-Predictor-App
 Install dependencies:
 
 pip install -r requirements.txt
